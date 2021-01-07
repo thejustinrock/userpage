@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Pictures
 
-You can use the [editor on GitHub](https://github.com/thejustinrock/userpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Format: ![My Favorite Group Singer](https://upload.wikimedia.org/wikipedia/commons/f/f4/180717_%EC%97%B4%EB%A6%B0%EC%9D%8C%EC%95%85%ED%9A%8C_%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4_02.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Links
 
-### Markdown
+[**My Favorite Group Info**](https://en.wikipedia.org/wiki/Twice)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Welcome to Justin's GitHub Pages
 
-# Header 1
-## Header 2
-### Header 3
+Hello my name is *Justin Chanthabandith* and I am a Third Year Math-CS Student at UCSD and I am a Revelle student. I love to listen to Kpop Song.
 
-- Bulleted
-- List
+## Coding Languages 
 
-1. Numbered
-2. List
+- Java
+- Python
+- C
+- C++
+- JavaScript
 
-**Bold** and _Italic_ and `Code` text
+Section links, Relative links, and Task lists
 
-[Link](url) and ![Image](src)
-```
+## My Favorite Quote
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Yoda say: 
 
-### Jekyll Themes
+> Do or do not. There is no try
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thejustinrock/userpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## My Favorite Coding Quote
 
-### Support or Contact
+```Hello World
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 
+
+
