@@ -42,5 +42,5 @@ Hello, this is a [Welcome Pages](https://github.com/thejustinrock/userpage/blob/
 
 ## Check to see the relative link
  
-[Click this relative link](newfile/newpage.md)
+[Click this relative link](newfolder/newfile.md)
 
