@@ -1,5 +1,3 @@
-theme: jekyll-theme-hacker
-
 ## Welcome to Justin's GitHub Pages
 
 Hello my name is *Justin Chanthabandith* and I am a Third Year Math-CS Student at UCSD and I am a Revelle student. I love to listen to Kpop Song.
