@@ -33,14 +33,15 @@ Yoda say:
 ```Hello World```
 
 ## Goal 
--[ ] Get internship
--[x] Get my first A in UCSD
+- [ ] Get internship
+- [x] Get my first A in UCSD
 
 ## Back to Welcome Pages
 
 Hello, this is a [Welcome Pages](https://github.com/thejustinrock/userpage/blob/gh-pages/index.md#welcome-to-justins-github-pages), is a link to the welcome pages.
 
 ## Check to see the relative link
+
 
 
 
